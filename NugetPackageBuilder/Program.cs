@@ -9,6 +9,10 @@ namespace NugetBuilder
 {
     public static class Program
     {
+        /// <summary>
+        /// Some summary
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(string[] args)
         {
             try
